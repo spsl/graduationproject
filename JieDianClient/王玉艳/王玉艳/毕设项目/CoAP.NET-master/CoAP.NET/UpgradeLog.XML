@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CoAP.NET.2005">
+</Property><Property Name="Solution File" Value="C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\CoAP.NET.2005.sln">
+</Property><Property Name="Date" Value="2013年12月20日">
+</Property><Property Name="Time" Value="15:27:37">
+</Property></Properties><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="CoAP.NET.2005.csproj" Description="Project file successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\CoAP.NET.2005.csproj">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="BlockOption.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\BlockOption.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="CoapConstants.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\CoapConstants.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Code.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Code.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Communicator.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Communicator.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="EndpointAddress.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\EndpointAddress.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="EndPoint\Resources\DiscoveryResource.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\EndPoint\Resources\DiscoveryResource.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="EndPoint\EndPoint.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\EndPoint\EndPoint.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="EndPoint\LocalEndPoint.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\EndPoint\LocalEndPoint.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="EndPoint\Resources\LocalResource.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\EndPoint\Resources\LocalResource.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="EndPoint\Resources\RemoteResource.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\EndPoint\Resources\RemoteResource.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="EndPoint\Resources\Resource.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\EndPoint\Resources\Resource.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="EndPoint\Resources\TimerResource.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\EndPoint\Resources\TimerResource.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="IMessageHandler.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\IMessageHandler.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="IRequestHandler.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\IRequestHandler.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="IMessageReceiver.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\IMessageReceiver.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="IShutdown.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\IShutdown.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Layers\AbstractLayer.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Layers\AbstractLayer.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Layers\AdverseLayer.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Layers\AdverseLayer.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Layers\CoapStack.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Layers\CoapStack.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Layers\ILayer.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Layers\ILayer.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Layers\MatchingLayer.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Layers\MatchingLayer.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Layers\MessageLayer.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Layers\MessageLayer.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Layers\TokenLayer.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Layers\TokenLayer.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Layers\TransferLayer.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Layers\TransferLayer.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Layers\UDPLayer.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Layers\UDPLayer.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Layers\UpperLayer.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Layers\UpperLayer.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="LinkAttribute.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\LinkAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="LinkFormat.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\LinkFormat.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Log\ILogger.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Log\ILogger.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Log\LogManager.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Log\LogManager.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="MediaType.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\MediaType.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Message.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Message.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="MessageType.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\MessageType.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="ObservingManager.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\ObservingManager.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Option.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Option.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="OptionType.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\OptionType.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Request.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Request.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Response.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Response.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="ResponseEventArgs.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\ResponseEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Spec.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Spec.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="TokenManager.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\TokenManager.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Util\ByteArrayUtils.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Util\ByteArrayUtils.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Util\DatagramReader.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Util\DatagramReader.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Util\DatagramWriter.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Util\DatagramWriter.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Util\HashMap.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Util\HashMap.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Util\HashSet.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Util\HashSet.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Util\Scanner.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Util\Scanner.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="Util\Sort.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\Util\Sort.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="README" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.NET\Backup\README">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="CoAP.NET.2005.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CoAP.NET.2005" Source="CoAP.NET.2005.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CoAP.NET.2005" Source="CoAP.NET.2005.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

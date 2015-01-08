@@ -1,0 +1,6 @@
+F:\实验室项目\JieDianClient\Test\Test\obj\Debug\ResolveAssemblyReference.cache
+F:\实验室项目\JieDianClient\Test\Test\bin\Debug\Test.exe
+F:\实验室项目\JieDianClient\Test\Test\bin\Debug\Test.pdb
+F:\实验室项目\JieDianClient\Test\Test\bin\Debug\CoAP.NET.dll
+F:\实验室项目\JieDianClient\Test\Test\obj\Debug\Test.exe
+F:\实验室项目\JieDianClient\Test\Test\obj\Debug\Test.pdb

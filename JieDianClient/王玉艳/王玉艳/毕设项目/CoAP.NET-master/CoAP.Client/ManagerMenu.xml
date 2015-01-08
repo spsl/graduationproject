@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Menus>
+	<MainMenu id="10" title="无线传感网信息管理">
+		<SubMenu id="101">
+			<Title>节点</Title>
+		</SubMenu>
+		<SubMenu id="102">
+			<Title>历史记录</Title>
+		</SubMenu>
+	</MainMenu>
+	<MainMenu id="11" title="用户信息管理">
+		<SubMenu id="111">
+			<Title>全部用户信息</Title>
+		</SubMenu>
+	</MainMenu>
+	<MainMenu id="12" title="个人账户管理">
+		<SubMenu id="121">
+			<Title>个人信息</Title>
+		</SubMenu>
+		<SubMenu id="122">
+			<Title>修改密码</Title>
+		</SubMenu>
+	</MainMenu>
+	<MainMenu id="13" title="帮助">
+		<SubMenu id="131">
+			<Title>关于</Title>
+		</SubMenu>
+	</MainMenu>
+</Menus>

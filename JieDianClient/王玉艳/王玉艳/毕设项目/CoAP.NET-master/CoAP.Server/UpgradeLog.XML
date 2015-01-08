@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CoAP.Server.2005">
+</Property><Property Name="Solution File" Value="C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.Server\CoAP.Server.2005.sln">
+</Property><Property Name="Date" Value="2013年12月20日">
+</Property><Property Name="Time" Value="15:27:17">
+</Property></Properties><Event ErrorLevel="0" Project="CoAP.Server.2005" Source="CoAP.Server.2005.csproj" Description="Project file successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.Server\Backup\CoAP.Server.2005.csproj">
+</Event><Event ErrorLevel="0" Project="CoAP.Server.2005" Source="CoAPServer.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.Server\Backup\CoAPServer.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.Server.2005" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.Server\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.Server.2005" Source="Resources\CarelessResource.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.Server\Backup\Resources\CarelessResource.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.Server.2005" Source="Resources\HelloWorldResource.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.Server\Backup\Resources\HelloWorldResource.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.Server.2005" Source="Resources\ImageResource.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.Server\Backup\Resources\ImageResource.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.Server.2005" Source="Resources\SeparateResource.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.Server\Backup\Resources\SeparateResource.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.Server.2005" Source="Resources\TimeResource.cs" Description="File successfully backed up as C:\Users\KAKA\Desktop\CoAP.NET-master\CoAP.Server\Backup\Resources\TimeResource.cs">
+</Event><Event ErrorLevel="0" Project="CoAP.Server.2005" Source="CoAP.Server.2005.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CoAP.Server.2005" Source="CoAP.Server.2005.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CoAP.Server.2005" Source="CoAP.Server.2005.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

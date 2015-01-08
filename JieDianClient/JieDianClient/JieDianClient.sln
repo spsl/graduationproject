@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JieDianClient", "JieDianClient\JieDianClient.csproj", "{ADD695D1-587C-49CB-A01C-F86CFA2AE2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{75427851-2FB6-4185-89EC-D9033D042E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD695D1-587C-49CB-A01C-F86CFA2AE2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD695D1-587C-49CB-A01C-F86CFA2AE2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD695D1-587C-49CB-A01C-F86CFA2AE2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD695D1-587C-49CB-A01C-F86CFA2AE2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75427851-2FB6-4185-89EC-D9033D042E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75427851-2FB6-4185-89EC-D9033D042E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75427851-2FB6-4185-89EC-D9033D042E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75427851-2FB6-4185-89EC-D9033D042E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
