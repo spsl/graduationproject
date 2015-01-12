@@ -1,0 +1,6 @@
+ÓÃ»§Ãû£ºroot
+ÃÜÂë£ºadmin
+
+/etc/init.d/radvd restart
+
+tunslip6 aaaa::1/64 -B 38400 -s /dev/ttyUSB0
