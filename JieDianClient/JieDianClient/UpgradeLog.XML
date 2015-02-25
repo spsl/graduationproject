@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="JieDianClient">
+</Property><Property Name="解决方案文件" Value="C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\JieDianClient.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\JieDianClient.suo">
+</Property><Property Name="Date" Value="2015年2月25日">
+</Property><Property Name="Time" Value="13:52">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="JieDianClient.sln" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient.sln">
+</Event><Event ErrorLevel="0" Project="" Source="JieDianClient.suo" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient.suo">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\JieDianClient.csproj" Description="项目文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\JieDianClient.csproj">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\JieDianClient.csproj.user" Description="项目用户文件成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\JieDianClient.csproj.user">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\About.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\About.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\About.designer.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\About.designer.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\AddUser.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\AddUser.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\AddUser.designer.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\AddUser.designer.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\CData\InfoData.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\CData\InfoData.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\CData\InfoDataOperation.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\CData\InfoDataOperation.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\CData\UserData.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\CData\UserData.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\CData\UserDataOperation.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\CData\UserDataOperation.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\ConMysql.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\ConMysql.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\DAL.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\DAL.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Form1.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Form1.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Form1.Designer.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Form2.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Form2.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Form2.Designer.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\ImageByte.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\ImageByte.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Program.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\SendEmail.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\SendEmail.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\SendEmail.designer.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\SendEmail.designer.cs">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\About.resx" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\About.resx">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\AddUser.resx" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\AddUser.resx">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Form1.resx" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Form1.resx">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Form2.resx" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Form2.resx">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\SendEmail.resx" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\JieDianClient\SendEmail.resx">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\JieDianClient.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="JieDianClient" Source="JieDianClient\JieDianClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="项目文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\ConsoleApplication1\ConsoleApplication1.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\Program.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\ConsoleApplication1\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\Backup\ConsoleApplication1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="JieDianClient.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="JieDianClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="JieDianClient" Source="JieDianClient\JieDianClient.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

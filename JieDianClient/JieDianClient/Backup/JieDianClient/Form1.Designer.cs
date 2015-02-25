@@ -42,10 +42,9 @@
             // 
             // Btn_Chongzhi
             // 
-            this.Btn_Chongzhi.Location = new System.Drawing.Point(144, 126);
-            this.Btn_Chongzhi.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Btn_Chongzhi.Location = new System.Drawing.Point(228, 157);
             this.Btn_Chongzhi.Name = "Btn_Chongzhi";
-            this.Btn_Chongzhi.Size = new System.Drawing.Size(74, 31);
+            this.Btn_Chongzhi.Size = new System.Drawing.Size(99, 23);
             this.Btn_Chongzhi.TabIndex = 0;
             this.Btn_Chongzhi.Text = "重置";
             this.Btn_Chongzhi.UseVisualStyleBackColor = true;
@@ -53,10 +52,9 @@
             // 
             // Btn_DengLu
             // 
-            this.Btn_DengLu.Location = new System.Drawing.Point(36, 127);
-            this.Btn_DengLu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Btn_DengLu.Location = new System.Drawing.Point(61, 157);
             this.Btn_DengLu.Name = "Btn_DengLu";
-            this.Btn_DengLu.Size = new System.Drawing.Size(88, 31);
+            this.Btn_DengLu.Size = new System.Drawing.Size(117, 23);
             this.Btn_DengLu.TabIndex = 1;
             this.Btn_DengLu.Text = "登陆";
             this.Btn_DengLu.UseVisualStyleBackColor = true;
@@ -64,10 +62,9 @@
             // 
             // Btn_QuXiao
             // 
-            this.Btn_QuXiao.Location = new System.Drawing.Point(245, 126);
-            this.Btn_QuXiao.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Btn_QuXiao.Location = new System.Drawing.Point(125, 205);
             this.Btn_QuXiao.Name = "Btn_QuXiao";
-            this.Btn_QuXiao.Size = new System.Drawing.Size(74, 33);
+            this.Btn_QuXiao.Size = new System.Drawing.Size(99, 23);
             this.Btn_QuXiao.TabIndex = 2;
             this.Btn_QuXiao.Text = "取消";
             this.Btn_QuXiao.UseVisualStyleBackColor = true;
@@ -76,23 +73,20 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(44, 34);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(58, 43);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(47, 12);
+            this.label1.Size = new System.Drawing.Size(60, 15);
             this.label1.TabIndex = 3;
             this.label1.Text = "用户名:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(50, 86);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Location = new System.Drawing.Point(66, 108);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(41, 12);
+            this.label2.Size = new System.Drawing.Size(52, 15);
             this.label2.TabIndex = 4;
             this.label2.Text = "密码：";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // fileSystemWatcher1
             // 
@@ -101,28 +95,25 @@
             // 
             // Tb_UserName
             // 
-            this.Tb_UserName.Location = new System.Drawing.Point(94, 34);
-            this.Tb_UserName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Tb_UserName.Location = new System.Drawing.Point(125, 43);
             this.Tb_UserName.Name = "Tb_UserName";
-            this.Tb_UserName.Size = new System.Drawing.Size(152, 21);
+            this.Tb_UserName.Size = new System.Drawing.Size(202, 25);
             this.Tb_UserName.TabIndex = 5;
             // 
             // Mtb_MiMa
             // 
-            this.Mtb_MiMa.Location = new System.Drawing.Point(94, 78);
-            this.Mtb_MiMa.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Mtb_MiMa.Location = new System.Drawing.Point(125, 97);
             this.Mtb_MiMa.Name = "Mtb_MiMa";
             this.Mtb_MiMa.PasswordChar = '*';
-            this.Mtb_MiMa.Size = new System.Drawing.Size(152, 21);
+            this.Mtb_MiMa.Size = new System.Drawing.Size(122, 25);
             this.Mtb_MiMa.TabIndex = 6;
             // 
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(266, 86);
-            this.linkLabel1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel1.Location = new System.Drawing.Point(253, 107);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(53, 12);
+            this.linkLabel1.Size = new System.Drawing.Size(67, 15);
             this.linkLabel1.TabIndex = 8;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "忘记密码";
@@ -130,10 +121,10 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(340, 203);
+            this.ClientSize = new System.Drawing.Size(387, 240);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.Mtb_MiMa);
             this.Controls.Add(this.Tb_UserName);
@@ -142,7 +133,6 @@
             this.Controls.Add(this.Btn_QuXiao);
             this.Controls.Add(this.Btn_DengLu);
             this.Controls.Add(this.Btn_Chongzhi);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "登陆窗口";
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();

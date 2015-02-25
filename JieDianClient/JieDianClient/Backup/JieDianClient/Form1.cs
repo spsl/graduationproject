@@ -119,7 +119,7 @@ namespace JieDianClient
             }
 
             MySqlConnection sqlconnection = new MySqlConnection();
-            sqlconnection.ConnectionString = "server=localhost;user id=root;password=sunsai;database=jiedian";//配置数据库连接
+            sqlconnection.ConnectionString = "server=localhost;user id=root;password=271828;database=jiedian";
             sqlconnection.Open();
             //SqlCommand InsertCommand = new SqlCommand();
             //InsertCommand.Connection = sqlconnection;
@@ -132,19 +132,10 @@ namespace JieDianClient
             //{
             //    MessageBox.Show(re.GetName(0));
             //}
-            // String ps = "'and password='";
-            //    String ed="';";
-            //  String sql = "select * from jd_user where username='" + Tb_UserName.Text + ps + Mtb_MiMa.Text + ed;//我的天,这个也太原始了吧
-            MySqlCommand mySqlCommand = new MySqlCommand();
-            mySqlCommand.Connection = sqlconnection;
-
-            mySqlCommand.CommandText = "jd_user_get_by_username_and_password";//调用存储过程
-            mySqlCommand.CommandType = CommandType.StoredProcedure;
-            mySqlCommand.Parameters.Add(new MySqlParameter("in_username",MySqlDbType.VarChar,50));
-            mySqlCommand.Parameters.Add(new MySqlParameter("in_password", MySqlDbType.VarChar,50));
-            mySqlCommand.Parameters["in_username"].Value = Tb_UserName.Text;
-            mySqlCommand.Parameters["in_password"].Value = Mtb_MiMa.Text;
-
+            String ps = "'and password='";
+            String ed="';";
+            String sql = "select * from jd_user where username='" + Tb_UserName.Text + ps + Mtb_MiMa.Text + ed;
+            MySqlCommand mySqlCommand = new MySqlCommand(sql,sqlconnection);
             MySqlDataReader reader = mySqlCommand.ExecuteReader();
             try
             {
@@ -193,11 +184,6 @@ namespace JieDianClient
         {
             SendEmail sendemail = new SendEmail();
             sendemail.Show();
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
         }
 
     }

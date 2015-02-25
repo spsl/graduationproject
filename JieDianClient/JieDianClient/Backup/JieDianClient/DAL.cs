@@ -25,7 +25,7 @@ namespace web
         /// <summary>
         /// 配置数据库连接字符串
         /// </summary>
-        public static string ConnectionString = "server=localhost;user id=root;password=sunsai;database=jiedian";
+        public static string ConnectionString = "server=localhost;user id=root;password=271828;database=jiedian";
         #endregion
 
         #region  执行SQL语句，返回Bool值
