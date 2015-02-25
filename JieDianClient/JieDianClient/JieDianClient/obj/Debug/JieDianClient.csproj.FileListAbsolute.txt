@@ -11,3 +11,5 @@ C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\
 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\JieDianClient\obj\Debug\JieDianClient.Properties.Resources.resources
 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\JieDianClient\obj\Debug\web.SendEmail.resources
 C:\Users\赛\Desktop\毕业设计\graduationproject\JieDianClient\JieDianClient\JieDianClient\obj\Debug\JieDianClient.csproj.GenerateResource.Cache
+C:\Users\赛\Desktop\graduationproject\JieDianClient\JieDianClient\JieDianClient\obj\Debug\JieDianClient.exe
+C:\Users\赛\Desktop\graduationproject\JieDianClient\JieDianClient\JieDianClient\obj\Debug\JieDianClient.pdb
