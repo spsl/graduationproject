@@ -43,7 +43,7 @@
             // Btn_Chongzhi
             // 
             this.Btn_Chongzhi.Location = new System.Drawing.Point(144, 126);
-            this.Btn_Chongzhi.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Btn_Chongzhi.Margin = new System.Windows.Forms.Padding(2);
             this.Btn_Chongzhi.Name = "Btn_Chongzhi";
             this.Btn_Chongzhi.Size = new System.Drawing.Size(74, 31);
             this.Btn_Chongzhi.TabIndex = 0;
@@ -54,7 +54,7 @@
             // Btn_DengLu
             // 
             this.Btn_DengLu.Location = new System.Drawing.Point(36, 127);
-            this.Btn_DengLu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Btn_DengLu.Margin = new System.Windows.Forms.Padding(2);
             this.Btn_DengLu.Name = "Btn_DengLu";
             this.Btn_DengLu.Size = new System.Drawing.Size(88, 31);
             this.Btn_DengLu.TabIndex = 1;
@@ -65,7 +65,7 @@
             // Btn_QuXiao
             // 
             this.Btn_QuXiao.Location = new System.Drawing.Point(245, 126);
-            this.Btn_QuXiao.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Btn_QuXiao.Margin = new System.Windows.Forms.Padding(2);
             this.Btn_QuXiao.Name = "Btn_QuXiao";
             this.Btn_QuXiao.Size = new System.Drawing.Size(74, 33);
             this.Btn_QuXiao.TabIndex = 2;
@@ -102,19 +102,21 @@
             // Tb_UserName
             // 
             this.Tb_UserName.Location = new System.Drawing.Point(94, 34);
-            this.Tb_UserName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Tb_UserName.Margin = new System.Windows.Forms.Padding(2);
             this.Tb_UserName.Name = "Tb_UserName";
             this.Tb_UserName.Size = new System.Drawing.Size(152, 21);
             this.Tb_UserName.TabIndex = 5;
+            this.Tb_UserName.Text = "sunsai";
             // 
             // Mtb_MiMa
             // 
             this.Mtb_MiMa.Location = new System.Drawing.Point(94, 78);
-            this.Mtb_MiMa.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Mtb_MiMa.Margin = new System.Windows.Forms.Padding(2);
             this.Mtb_MiMa.Name = "Mtb_MiMa";
             this.Mtb_MiMa.PasswordChar = '*';
             this.Mtb_MiMa.Size = new System.Drawing.Size(152, 21);
             this.Mtb_MiMa.TabIndex = 6;
+            this.Mtb_MiMa.Text = "123";
             // 
             // linkLabel1
             // 
@@ -142,7 +144,7 @@
             this.Controls.Add(this.Btn_QuXiao);
             this.Controls.Add(this.Btn_DengLu);
             this.Controls.Add(this.Btn_Chongzhi);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "登陆窗口";
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
